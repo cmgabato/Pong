@@ -26,7 +26,7 @@
                                             !!!!`
 PINGPONG ASCII Arts from http://ascii.co.uk/art/pingpong
 
-This repsoitory contains a series of codes and files that made up the game Pong. The codes or .java files have classes that explains java concepts and other comcepts of game programming. The consists of exactly four .java files (Game.java, Sound.java, Ball.java && Racquet.java) with three .wav files (fx.java, Ball.java, gameover.java).
+This repository contains a series of codes and files that made up the game Pong. The codes or .java files have classes that explains java concepts and other comcepts of game programming. The consists of exactly four .java files (Game.java, Sound.java, Ball.java && Racquet.java) with three .wav files (fx.java, Ball.java, gameover.java).
 
 These codes were implemented using a Sublime Text, and not an IDE. I highly suggests to download an IDE if you want to spare yourself from too much trouble. My recommendations are IntelliJ, Eclipse and NetBeans, and you may find the sites where to download them by asking or through Google or other search engines.
 
