@@ -97,6 +97,7 @@ public class Game extends JPanel {														//Helps in overwriting the paint
 		frame.setVisible(true);															//makes the window visible
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);							//Stops the program from runninf if closed	
 
+		JOptionPane.showMessageDialog(game, "\tPONG version 1.0\nINSTRUCTIONS:\n\nPlayer 1:\nMove Left - Left Arrow Key\nMove Right - Right Arrow Key\n\nPlayer 2:\nMove Left - 'A' Key\nMove Right - 'D' Key", "", JOptionPane.YES_NO_OPTION);
 		while(true){																	//loops the game
 			game.move();																//calling the game's move method to start playing
 			game.repaint();																//used to cause paint() to be invoked. paint() is a method supports painting via a Graphics object
